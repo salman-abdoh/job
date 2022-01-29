@@ -1,0 +1,23 @@
+header{
+    direction: rtl;
+}
+.header .top{
+   
+}
+.header .nav li a:hover{
+    color:#ffc107;
+    border-bottom: 1px #ffc107 solid;
+}
+ul{
+    direction: rtl;
+}
+h1{
+    font-weight: 400;
+}
+ .buttm form{
+    width: 52%;
+    margin: auto;
+    border-bottom: 1px #00000029 solid;
+    padding-bottom: 8px;
+}
+.buttm form .btn{width: 100px;}
