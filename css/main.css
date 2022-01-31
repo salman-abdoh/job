@@ -14,6 +14,11 @@ ul{
 }
 h1{
     font-weight: 400;
+    
+}
+.headerh {
+    font-weight: 400;
+    color:#ffc107;
 }
  .buttm form{
     width: 52%;
@@ -76,7 +81,7 @@ h1{
 
     }
    .card-body span{
-        font-size:10px;
+        font-size:15px;
         font-weight: 400;
         margin: 5px;
         padding-right: 5px;
