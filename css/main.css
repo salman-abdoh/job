@@ -1,5 +1,6 @@
 header{
     direction: rtl;
+    
 }
 .header .top{
    
@@ -21,3 +22,89 @@ h1{
     padding-bottom: 8px;
 }
 .buttm form .btn{width: 100px;}
+.carousel-indicators [data-bs-target] {
+    background-color: #ffc107;
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;}
+    .carousel-control-next-warning {
+        font-size: 71px;
+        font-weight: 600;
+    }
+    .carousel-control-prev-warning {
+        font-size: 71px;
+        font-weight: 600;
+    }
+    .bd-slides{
+      
+        width: 90%;
+        margin:auto ;
+    }
+    .bd-slides .buttm{
+        position: absolute;
+        top: 20%;
+        direction: rtl;
+        text-align: center;
+       
+        width: 100%;
+        margin: auto;
+    }
+    .who{
+        position: relative;
+        width: 90%;
+        margin:auto ;
+    }
+    .who .buttm{
+        position: absolute;
+        top: 20%;
+        direction: rtl;
+        text-align: center;
+       
+        width: 100%;
+        margin: auto;
+    }
+   /* .who h4{ border-bottom: 1px #ffc107a2 solid;}*/
+       
+    .ads {
+        height:auto;
+        margin: auto;
+        text-align: center;
+        
+    }
+    .ads img{
+        height:200px;
+
+    }
+   .card-body span{
+        font-size:10px;
+        font-weight: 400;
+        margin: 5px;
+        padding-right: 5px;
+        border-right: 1px #000000 solid;
+    }
+    .card .d-flex {
+       
+        flex-direction: column;
+    }
+    .text-center main{
+        margin: auto;
+        width: 40%;
+        padding: 50px;
+        margin-top: 40px;
+        direction: rtl;
+    }
+    .form-floating > label {
+        position: absolute;
+        top: 0;
+        right: -343px;
+        height: 100%;
+       
+        pointer-events: none;
+        border: 1px solid transparent;
+        transform-origin: 0 0;
+        transition: opacity 0.1s ease-in-out, transform 0.1s ease-in-out;
+    }
+    .dtail{
+        text-align: right;
+        direction: rtl;
+    }
